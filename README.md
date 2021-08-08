@@ -25,5 +25,8 @@ yarn test:unit
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Technologies
+* Vue3
+* TailwindCSS
+* Typescript
+* HeadlessUI

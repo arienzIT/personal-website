@@ -1,0 +1,19 @@
+<template>
+  <div
+    class="
+      mb-6
+      inline-flex
+      items-center
+      px-2.5
+      py-1
+      rounded
+      tracking-wide
+      text-sm
+      font-medium
+      bg-indigo-100
+      text-indigo-800
+    "
+  >
+    <slot></slot>
+  </div>
+</template>
